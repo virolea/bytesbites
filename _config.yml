@@ -34,9 +34,8 @@ plugins:
   - jekyll-seo-tag
 
 
-domain: virolea.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://virolea.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /bytesbites/      # place folder name if the site is served in a subfolder
+domain: bytesbites.io
+url: https://bytesbites.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
