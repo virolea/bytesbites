@@ -21,8 +21,9 @@
 title: BytesBites
 description: >- # this means to ignore newlines until "baseurl:"
   Blog by Vincent Rolea. I write about software development and management mostly using Ruby and Rails.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+image: assets/images/social-cards/main.jpg
+domain: bytesbites.io
+url: https://bytesbites.io
 twitter_username: vincentrolea
 github_username:  virolea
 google_analytics: UA-XXXXXXXX-X
@@ -33,10 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-
-domain: bytesbites.io
-url: https://bytesbites.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.

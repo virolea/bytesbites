@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Route Traffic To A Subdirectory Using Cloudflare Workers"
+excerpt: "If you’re working on a project or a company where SEO has a certain degree of importance for acquisition, you had to consider at some point using a subdomain or subdirectory to host marketing pages like a blog. In this post, we'll explore how one can leverage cloudflare workers to route trafic to a subdirectory."
+image: "assets/images/social-cards/cloudflare-worker-routes.jpg"
+author: Vincent Rolea 
+tags: rails cloudlfare-workers
+---
+
+
 If you're working on a project or a company where SEO has a certain degree of importance for acquisition, there's a great deal of chance you've already asked yourself this question :
 
 > Should I route traffic to the remotely hosted (blog/faq/documentation) as a subdomain (blog.kactus.com) or as a subdirectory of my main domain (kactus.com/blog) ? 
